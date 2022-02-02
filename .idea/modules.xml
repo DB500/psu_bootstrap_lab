@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/psu_bootstrap_lab.iml" filepath="$PROJECT_DIR$/.idea/psu_bootstrap_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/psu_html_form_lab/psu_html_form_lab.iml" filepath="$PROJECT_DIR$/psu_html_form_lab/psu_html_form_lab.iml" />
     </modules>
   </component>
 </project>
